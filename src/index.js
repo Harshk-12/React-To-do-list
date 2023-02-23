@@ -2,7 +2,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-import  Tesla from './Tesla/Tesla.js';
+import Todo from './Todo/Todo.js';
 
 
 
@@ -13,7 +13,7 @@ root.render(
 
   <>
 
-<Tesla/>
+<Todo/>
 
   </>
 );
