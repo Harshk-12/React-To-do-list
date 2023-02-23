@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+.linethrough{
+    text-decoration: line-through;
+    pointer-events: none;
+}
+
+body{
+    background-color: aqua  ;
+}
+.form{
+  margin-left: 530px;
+  margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+   
+    
+}
+.input{
+    width: 20rem;
+    height: 2rem;
+}
+.btn{
+    width: 5rem;
+    height: 2.3rem;
+}
+.list{
+    list-style: none;
+    margin-left: 70px;
+    margin-top: 20px;
+}
